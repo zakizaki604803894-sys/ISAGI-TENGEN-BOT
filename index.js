@@ -1,12 +1,3 @@
-/* ═══════════════════════════════════════════════════════════
-   🍁 𝐈𝐒𝐀𝐆𝐈 𝐓𝐄𝐍𝐆𝐄𝐍 𝐁𝐎𝐓 — الملف الرئيسي (نهائي)
-   📁 /home/container/index.js
-   ⚡ استجابة فورية | Cache | بدون تكرار
-   ✅ يدعم أحداث البوتات الفرعية → البلوجنات
-   ✅ يدعم 9 أحداث: add/remove/promote/demote/subject/icon/settings/announce/restrict
-   🧬 طبقة السلوك البشري (بدون تغيير أي ميزة)
-   🛡️ حماية مدمجة من ZodError (تنقية owners)
-   ═══════════════════════════════════════════════════════════ */
 
 import { Client } from 'meowsab';
 import { group, access } from "./system/control.js";
